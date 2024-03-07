@@ -1,0 +1,147 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+/* Estilos para el header */
+.header {
+  text-align: center;
+  background-color: #f2ff00;
+}
+
+/* Estilos para el menú */
+.menu {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+
+.menu1 {
+  background-color: #e0e0e0;
+  padding: 20px;
+}
+
+.content .nested-box {
+  background-color: #f5f5f5;
+}
+
+/* Estilos específicos para fondo1, fondo2, fondo3 y fondo4 */
+.fondo1 {
+  background-color: #e57373;
+}
+
+.fondo2 {
+  background-color: #81c784;
+}
+
+.fondo3 {
+  background-color: #64b5f6;
+}
+
+.fondo4 {
+  background-color: #ffd54f;
+}
+.header {
+	text-align: center;
+	background-color: #333;
+	color: #fff;
+  }
+  
+  /* Estilos para el menú */
+  .menu {
+	background-color: #f8f9fa;
+  }
+  
+  .menu1 {
+	background-color: #e0e0e0;
+  }
+
+  /* Estilos para el contenido */
+  .content {
+	background-color: #ffebee;
+  }
+  
+  /* Estilos para la caja de Mi Historia dentro del contenido */
+  .content .nested-box {
+	background-color: #f5f5f5;
+  }
+  
+  /* Estilos para el contenido2 */
+  .content2 {
+	text-align: center;
+  }
+  
+  /* Estilos específicos para fondo1, fondo2, fondo3 y fondo4 */
+  .fondo1 {
+	background-color: #c90707;
+
+  }
+  
+  .fondo2 {
+	background-color: #81c784;
+  }
+  
+  .fondo3 {
+	background-color: #64b5f6;
+  }
+  
+  .fondo4 {
+	background-color: #ffd54f;
+  }
+
+  .fondo5 {
+    background-color: #9415d0;
+  }
+
+  .fondo6 {
+    background-color: #13a7e1;
+  }
+  .fondo7 {
+    background-color: #322698;
+  }
+  .fondo8 {
+    background-color: #5898e1;
+  }
+  .fondo9 {
+    background-color: #12de9a;
+  }
+  .fondo10 {
+    background-color: #1d8f17;
+  }
+  .fondo11 {
+    background-color: #2bff00;
+  }
+  .fondo12 {
+    background-color: #88e953;
+  }
+
+  .long{
+    height: 150px;
+  }
+  .long1{
+    height: 300px;
+  }
+  .long2{
+    height: 300px;
+  }
+  .long3{
+    height: 100px;
+  }
+  .long4{
+    height: 100px;
+  }
+  .long5{
+    height: 100px;
+  }
+  .long6{
+    height: 500px;
+  }
+  .long7{
+    height: 100px;
+  }
+
+@media (min-width: 0px) and (max-width: 767px) {
+  .ocultarmovil{
+    display: none;
+  }
+}
+
+  
